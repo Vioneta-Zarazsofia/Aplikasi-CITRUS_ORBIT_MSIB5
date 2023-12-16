@@ -1,0 +1,16 @@
+BUKA ANACONDA PROMPT :
+
+conda activate orbitproject
+pip install ultralytics
+pip install Flask
+pip install mysql-connector-python || pip install flask_mysqldb (start MySQL pada XAMPP)
+python app.py (buat jalanin)
+
+
+
+BUAT JALANIN
+conda activate orbitproject
+cd C:\xampp\htdocs\Orbit (Sesuai penempatan kalian)
+python app.py (buat jalanin)
+
+Jangan lupa aktifin xampp
